@@ -1,0 +1,70 @@
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/appsettings.Development.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/appsettings.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/ContosoPizza.staticwebassets.endpoints.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/ContosoPizza
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/ContosoPizza.deps.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/ContosoPizza.runtimeconfig.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/ContosoPizza.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/ContosoPizza.pdb
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.csproj.AssemblyReference.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.AssemblyInfoInputs.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.AssemblyInfo.cs
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.csproj.CoreCompileInputs.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/scopedcss/bundle/ContosoPizza.styles.css
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/swae.build.ex.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoP.D63404F9.Up2Date
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/refint/ContosoPizza.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/appsettings.Development.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/appsettings.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/ContosoPizza.staticwebassets.endpoints.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/ContosoPizza
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/ContosoPizza.deps.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/ContosoPizza.runtimeconfig.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/ContosoPizza.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/ContosoPizza.pdb
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.csproj.AssemblyReference.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/rpswa.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.AssemblyInfoInputs.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.AssemblyInfo.cs
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.csproj.CoreCompileInputs.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.MvcApplicationPartsAssemblyInfo.cs
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.MvcApplicationPartsAssemblyInfo.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/rjimswa.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/rjsmrazor.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/rjsmcshtml.dswa.cache.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/scopedcss/bundle/ContosoPizza.styles.css
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/staticwebassets.build.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/staticwebassets.build.json.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/staticwebassets.development.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/staticwebassets.build.endpoints.json
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/swae.build.ex.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoP.D63404F9.Up2Date
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/refint/ContosoPizza.dll
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.pdb
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ContosoPizza.genruntimeconfig.cache
+/Users/jeremyaaron/Documents/byu-idaho/CSE325 .NET/W01 Assignment/ContosoPizza/obj/Debug/net8.0/ref/ContosoPizza.dll
